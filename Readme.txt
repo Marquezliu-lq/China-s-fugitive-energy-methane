@@ -1,6 +1,6 @@
 Source data and codes of the forthcoming article by Qiang Liu and Fei Teng, "Dynamic Facility-level Inventory Reveals Peak and Decline of China's Energy Methane Emissions":
 
-Gridded Emission Data (in .tif format):
+Gridded Emission Data (in .nc format):
 coal2011-coal2020.tif: Fugitive methane emissions from coal, from 2011 to 2020, at a 25km x 25km resolution.
 ONG2011-ONG2020.tif: Fugitive methane emissions from oil and natural gas systems, from 2011 to 2020, at the same resolution.
 
